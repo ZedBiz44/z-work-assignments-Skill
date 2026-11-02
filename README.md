@@ -1,4 +1,4 @@
-# Z Jack Work Assignments
+# Z Work Assignments
 
 This repository contains ZedBiz's Operational skill for selected Jack-Work assignments and related AI-Agent-Convo records. `SKILL.md` is the authoritative runtime source.
 
