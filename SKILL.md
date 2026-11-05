@@ -52,8 +52,8 @@ description: Record Jack-Work assignments and linked AI conversations when Jack 
 - For Discord, use known server/thread/message identifiers from trusted runtime context. Do not mistake a broad channel link for an exact thread; label its scope.
 - For Codex, Manus and other platforms, inspect the tools actually available. Creating a share link is allowed only when Jack authorizes sharing that conversation; logging alone does not authorize publication.
 - Label shared links as snapshots when appropriate; they may not reopen an editable chat or include later messages.
-- If a link is unavailable, save every other known field now. Leave the URL field empty and put “Chat link needed” in the record body; ask Jack once for a paste.
-- When Jack supplies it later, update that same record and remove the missing-link note. Never replace a good existing link with an empty value.
+- If a link is unavailable, save every other known field now. The working agent owns follow-up. Check approved runtime or chat-history tools for the original link. If unavailable, leave the URL field empty and put “Chat link needed” in the record body with who can supply it. Ask Jack once if he needs to supply it.
+- When the verified link becomes available, update that same record and remove the missing-link note. Never replace a good existing link with an empty value.
 - A user-supplied link is valid to store without proving everyone can open it. Describe access as unverified unless actually checked.
 - Check: the link's provenance and scope are stated, or the missing link is clearly recorded.
 
